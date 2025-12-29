@@ -2,6 +2,7 @@ import argparse
 from collections import deque
 
 # idea 1: BFS
+# idea 2: Linear Algebra
 
 ON = '#'
 PART1 = False
